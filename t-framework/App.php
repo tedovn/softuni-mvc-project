@@ -12,4 +12,8 @@ class App {
 		}
 		return self::$_instance;
 	}
+
+	public static function getAll(){
+
+	}
 }
